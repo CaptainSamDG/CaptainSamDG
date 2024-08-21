@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @CaptainSamDG
 - 👀 I’m interested in Flying
 - 🌱 I’m currently learning how to fly
-- 💞️ I’m looking to collaborate on finding pilots
-- 📫 How to reach me airmail
-- 😄 Pronouns: air/plane
+- 💞️ I’m looking to collaborate ...
+- 📫 How to reach me gmail
+- 😄 Pronouns: ...
 - ⚡ Fun fact: I fly
 
 <!---
